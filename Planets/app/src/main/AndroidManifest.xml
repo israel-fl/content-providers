@@ -20,11 +20,6 @@
             </intent-filter>
         </activity>
 
-        <provider
-            android:authorities="@string/authority"
-            android:name=".planets.PlanetProvider"
-            android:exported="true"
-            />
     </application>
 
 </manifest>

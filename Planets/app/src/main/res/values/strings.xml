@@ -1,4 +1,3 @@
 <resources>
     <string name="app_name">Planets</string>
-    <string name="authority">com.israelfl.planets.PlanetProvider</string>
 </resources>
